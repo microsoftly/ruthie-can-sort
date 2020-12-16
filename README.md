@@ -1,5 +1,5 @@
 ## Running Tests
-You can run tests running `yarn test` in the command line/
+You can run tests running `yarn test` in the command line.
 ## Instructions
 ### Implementation
 Implement the sorting algorithms
