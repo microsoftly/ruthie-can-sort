@@ -1,3 +1,5 @@
+## Initialize
+run `yarn` to install dependencies.
 ## Running Tests
 You can run tests running `yarn test` in the command line.
 ## Instructions
